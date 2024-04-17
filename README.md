@@ -1,2 +1,2 @@
-# Server-Rausus
+# Server-Rausys
 Praktikant Server setup
